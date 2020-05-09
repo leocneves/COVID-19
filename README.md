@@ -18,8 +18,6 @@ People can catch COVID-19 from others who have the virus. The disease spreads pr
 
 WHO is assessing ongoing research on the ways that COVID-19 is spread and will continue to share updated findings.    
 
-
-
 ***
 
 ### Installing
@@ -30,7 +28,7 @@ For first, we need to clone the repository
 git clone https://github.com/leocneves/COVID-19.git
 ```
 
-Let's create datasets folder
+Let's create the datasets folder
 
 ```
 mkdir datasets
